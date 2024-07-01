@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/file-storage-api.git
+   https://github.com/vlefr5v1l/task_dr.web
    ```
 2. Установите зависимости:
  ```bash
