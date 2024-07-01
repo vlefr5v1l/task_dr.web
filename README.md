@@ -32,7 +32,7 @@
  ```bash
    python app.py
 ```
-4. Документация API (Swagger UI): [[http://localhost:8000/docs](http://localhost:8000/docs)](http://127.0.0.1:5000/swagger)
+4. Документация API (Swagger UI): [http://127.0.0.1:5000/swagger](http://127.0.0.1:5000/swagger)
 5. Запуск тестов
  ```bash
    pytest test_app.py
