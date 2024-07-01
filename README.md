@@ -20,7 +20,7 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   ```bash
+ ```bash
    git clone https://github.com/vlefr5v1l/task_dr.web
    ```
 2. Установите зависимости:
