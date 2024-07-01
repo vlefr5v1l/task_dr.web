@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   https://github.com/vlefr5v1l/task_dr.web
+   git clone https://github.com/vlefr5v1l/task_dr.web
    ```
 2. Установите зависимости:
  ```bash
